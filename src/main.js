@@ -1,11 +1,11 @@
-const loremText = `Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit, sed do eiusmod tempor 
-            incididunt ut labore et dolore magna 
-            aliqua. Diam in arcu cursus euismod 
+const loremText = `Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna
+            aliqua. Diam in arcu cursus euismod
             quis viverra nibh. Nunc aliquet bibendum
-            enim facilisis gravida neque convallis 
+            enim facilisis gravida neque convallis
             a cras. Sagittis purus sit amet volutpat
-            Consequat mauris. Duis ultricies lacus 
+            Consequat mauris. Duis ultricies lacus
             sed turpis tincidunt id. Consequat interdum
             varius sit amet mattis vulputate. Enim sed
             faucibus turpis in eu. Ridiculus mus mauris

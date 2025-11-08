@@ -4,7 +4,9 @@ html {
 
 body {
     background-color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:
+        "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 #infinite-text {
@@ -17,7 +19,7 @@ body {
     background-color: aliceblue;
 }
 
-#title {
+.title {
     width: 75%;
     text-align: center;
     margin: 0 auto;
